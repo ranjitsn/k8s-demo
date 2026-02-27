@@ -10,4 +10,4 @@ jobs:
 	- name: checkout code
 	  uses: actions/checkout@v3
 	- name: print Message
-	  run: echo "Hello World GitHub Actions"
+	  run: echo "Hello World GitHub Actions NEW"
